@@ -50,5 +50,5 @@ Atendendo a necessidade daqueles membros empresariais, políticos e até mesmo d
 
 A lógica do projeto foi implementada inteiramente em JavaScript. Nesse projeto não foram utilizadas bibliotecas ou frameworks, somente vanilla JavaScript, HTML5 e CSS3.
 
-O disigner da página foi criado de forma clara, objetivo e intuívo.
+O disigner da página foi criado de forma clara, objetiva e intuítivo.
 
