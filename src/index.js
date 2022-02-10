@@ -5,11 +5,10 @@ document.getElementById("btnDecode").addEventListener("click", decode);
 document.getElementById("btnClear").addEventListener("click", clear);
 
 function encode() {
-  let texto = document.getElementById("message").value.toUpperCase(); //ler o texto da cx1 e transforma minusculo em maiscula
-  let offset = Number(document.getElementById("offset").value); //identifica o deslocamento selecionado
-  document.getElementById("result").value = cipher.encode(offset, texto); //passa a msg da cx1 para a cx2
+  let texto = document.getElementById("message").value.toUpperCase(); 
+  let offset = Number(document.getElementById("offset").value); 
+  document.getElementById("result").value = cipher.encode(offset, texto); 
 }
-
 function decode() {
   let texto = document.getElementById("message").value.toUpperCase();
   let offset = Number(document.getElementById("offset").value);

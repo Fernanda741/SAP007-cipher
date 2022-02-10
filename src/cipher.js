@@ -8,7 +8,7 @@ const cipher = {
       if (codigoAsc >= 65 && codigoAsc <= 90) {
         let valorEncode =
           ((codigoAsc + codigoLetra + offset) % 26) + codigoLetra;
-        resultadoEncode = resultadoEncode + String.fromCharCode(valorEncode); //retorna uma string criada ao usar uma sequência específica de valores Unicode
+        resultadoEncode = resultadoEncode + String.fromCharCode(valorEncode); 
       } else {
         resultadoEncode = resultadoEncode + String.fromCharCode(codigoAsc);
       }
