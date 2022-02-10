@@ -7,7 +7,7 @@
 }
 
 body {
-  background: url("https://ibb.co/FVXVrHH");
+  background-image: url("./imagembg.jpg"); 
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
