@@ -7,7 +7,7 @@
 }
 
 body {
-  background: url("../img/imagembg.jpg ");
+  background: url("./img/imagembg.jpg ");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
