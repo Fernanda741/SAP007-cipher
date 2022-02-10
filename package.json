@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/index.html",
   "license": "MIT",
-  "homepage": "https://Fernanda741.github.io/Fernanda741",
+  "homepage": "https://Fernanda741.github.io/Fernanda741/src/index.html",
   "scripts": {
     "htmlhint": "htmlhint src/*.html test/*.html",
     "eslint": "eslint --ext .js src/ test/",
